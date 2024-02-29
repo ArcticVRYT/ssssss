@@ -1,0 +1,11 @@
+{
+  "$type": "ThunderRoad.ItemData, ThunderRoad",
+  "id": "Meteor",
+  "saveFolder": "bas",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 4,
+  "localizationId": null,
+  "pooledCount": 20,
+  "androidPooledCount": 6
+}

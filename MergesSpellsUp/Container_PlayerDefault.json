@@ -1,0 +1,57 @@
+{
+  "$type": "ThunderRoad.ContainerData, Assembly-CSharp",
+  "id": "PlayerDefault",
+  "version": 1,
+  "displayName": "",
+  "description": null,
+  "contents": [
+    {
+      "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+      "reference": "Item",
+      "referenceID": "SpellFireMergeUp",
+      "quantity": 1,
+      "state": null,
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+      "reference": "Item",
+      "referenceID": "SpellLightningMergeUp",
+      "quantity": 1,
+      "state": null,
+      "customDataList": []
+    },
+    //{
+    //  "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+    //  "reference": "Item",
+    //  "referenceID": "SpellGravityMergeUp",
+    //  "quantity": 1,
+    //  "state": null,
+    //  "customDataList": []
+    //},
+    {
+      "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+      "reference": "Item",
+      "referenceID": "SpellMergeFireMergeUp",
+      "quantity": 1,
+      "state": null,
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+      "reference": "Item",
+      "referenceID": "SpellMergeLightningMergeUp",
+      "quantity": 1,
+      "state": null,
+      "customDataList": []
+    }
+    //{
+    //  "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+    //  "reference": "Item",
+    //  "referenceID": "SpellMergeGravityMergeUp",
+    //  "quantity": 1,
+    //  "state": null,
+    //  "customDataList": []
+    //}
+  ]
+}
